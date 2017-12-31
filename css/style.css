@@ -41,13 +41,16 @@ nav {
   padding: 4%;
   width: 100%;
   display: inline-block;
+}
 
+.location:hover {
+  background-color: #0FF;
+  text-decoration: underline;
 }
 
 .arrow {
-  width: 10%
   float: right;
-  margin: 2%;
+  padding: 2%;
 }
 
 .content {
